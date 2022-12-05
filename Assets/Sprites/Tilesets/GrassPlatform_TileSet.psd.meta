@@ -249,6 +249,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -258,8 +259,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -280,6 +281,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -893,6 +896,33 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      GrassPlatform_TileSet_2: 21300102
+      GrassPlatform_TileSet_10: 21300118
+      GrassPlatform_TileSet_4: 21300106
+      GrassPlatform_TileSet_25: 21300148
+      GrassPlatform_TileSet_6: 21300110
+      GrassPlatform_TileSet_22: 21300142
+      GrassPlatform_TileSet_7: 21300112
+      GrassPlatform_TileSet_9: 21300116
+      GrassPlatform_TileSet_23: 21300144
+      GrassPlatform_TileSet_0: 21300098
+      GrassPlatform_TileSet_19: 21300136
+      GrassPlatform_TileSet_13: 21300124
+      GrassPlatform_TileSet_8: 21300114
+      GrassPlatform_TileSet_18: 21300134
+      GrassPlatform_TileSet_1: 21300100
+      GrassPlatform_TileSet_5: 21300108
+      GrassPlatform_TileSet_24: 21300146
+      GrassPlatform_TileSet_12: 21300122
+      GrassPlatform_TileSet_17: 21300132
+      GrassPlatform_TileSet_21: 21300140
+      GrassPlatform_TileSet_20: 21300138
+      GrassPlatform_TileSet_3: 21300104
+      GrassPlatform_TileSet_11: 21300120
+      GrassPlatform_TileSet_14: 21300126
+      GrassPlatform_TileSet_16: 21300130
+      GrassPlatform_TileSet_15: 21300128
   spritePackingTag: 
   pSDRemoveMatte: 1
   pSDShowRemoveMatteOption: 1

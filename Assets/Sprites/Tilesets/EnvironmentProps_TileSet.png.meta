@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -105,8 +106,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -127,6 +128,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -698,6 +701,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      EnvironmentProps_TileSet_4: 21300008
+      EnvironmentProps_TileSet_2: 21300004
+      EnvironmentProps_TileSet_16: 21300032
+      EnvironmentProps_TileSet_15: 21300030
+      EnvironmentProps_TileSet_5: 21300010
+      EnvironmentProps_TileSet_11: 21300022
+      EnvironmentProps_TileSet_23: 21300046
+      EnvironmentProps_TileSet_0: 21300000
+      EnvironmentProps_TileSet_14: 21300028
+      EnvironmentProps_TileSet_12: 21300024
+      EnvironmentProps_TileSet_17: 21300034
+      EnvironmentProps_TileSet_9: 21300018
+      EnvironmentProps_TileSet_20: 21300040
+      EnvironmentProps_TileSet_8: 21300016
+      EnvironmentProps_TileSet_10: 21300020
+      EnvironmentProps_TileSet_21: 21300042
+      EnvironmentProps_TileSet_7: 21300014
+      EnvironmentProps_TileSet_19: 21300038
+      EnvironmentProps_TileSet_18: 21300036
+      EnvironmentProps_TileSet_1: 21300002
+      EnvironmentProps_TileSet_13: 21300026
+      EnvironmentProps_TileSet_3: 21300006
+      EnvironmentProps_TileSet_22: 21300044
+      EnvironmentProps_TileSet_6: 21300012
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
